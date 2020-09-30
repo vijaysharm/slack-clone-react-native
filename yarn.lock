@@ -6753,6 +6753,11 @@ react-native-screens@^2.4.0:
   resolved "https://registry.yarnpkg.com/react-native-screens/-/react-native-screens-2.11.0.tgz#34b30b07c2d04aa100cba984b944b303bfa43ea6"
   integrity sha512-vJzJE3zI1XUtqthrX3Dh2TBQWB+xFyaGhF52KBq9FjJUN5ws4xpLZJxBWa1KbGV3DilmcSZ4jmZR5LGordwE7w==
 
+react-native-testfairy@^2.32.1:
+  version "2.32.1"
+  resolved "https://registry.yarnpkg.com/react-native-testfairy/-/react-native-testfairy-2.32.1.tgz#dab3a2f7ade3fdaf97e796c2b364e127ab6b1feb"
+  integrity sha512-mcVFUFtY6ElNAGpagJL6UkyRtvOmO6CeUvYM/GTha840yEGP7Ubap1YLpmJm26Atmjzsazb5lXgsESbdODCuKw==
+
 react-native@0.61.5:
   version "0.61.5"
   resolved "https://registry.yarnpkg.com/react-native/-/react-native-0.61.5.tgz#6e21acb56cbd75a3baeb1f70201a66f42600bba8"
